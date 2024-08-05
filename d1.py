@@ -1,4 +1,4 @@
-file = "input.txt" 
+file = "./inputs/input.txt" 
 name_map = {
     'zero': 0,
     'one': 1,
